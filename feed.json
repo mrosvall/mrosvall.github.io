@@ -25,6 +25,21 @@
             "date_modified": "2019-11-01T21:32:46+01:00"
         },
         {
+            "id": "https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions.html",
+            "url": "https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions.html",
+            "title": "Human activity is altering the world’s zoogeographical regions",
+            "summary": "Rubén Bernardo-Madrid, Joaquín Calatayud, Manuela González-Suarez, Martin Rosvall, Pablo M. Lucas, Marta Rueda, Alexandre Antonelli, and Eloy Revilla Zoogeographical&hellip;",
+            "content_html": "<p><strong>Rubén Bernardo-Madrid,</strong> <strong>Joaquín Calatayud</strong>, <strong>Manuela González-Suarez</strong>, <strong>Martin Rosvall</strong>, <strong>Pablo M. Lucas</strong>, <strong>Marta Rueda</strong>, <strong>Alexandre Antonelli</strong>, and <strong>Eloy Revilla</strong><br>Zoogeographical regions, or zooregions, are areas of the Earth defined by species pools that reflect ecological, historical and evolutionary processes acting over millions of years. Consequently, researchers have assumed that zooregions are robust and unlikely to change on a human timescale. However, the increasing number of human‐mediated introductions and extinctions can challenge this assumption. By delineating zooregions with a network‐based algorithm, here we show that introductions and extinctions are altering the zooregions we know today. Introductions are homogenising the Eurasian and African mammal zooregions and also triggering less intuitive effects in birds and amphibians, such as dividing and redefining zooregions representing the Old and New World. Furthermore, these Old and New World amphibian zooregions are no longer detected when considering introductions plus extinctions of the most threatened species. Our findings highlight the profound and far‐reaching impact of human activity and call for identifying and protecting the uniqueness of biotic assemblages.</p>\n<p><a class=\"noline\" href=\"https://doi.org/10.1111/ele.13321\">Ecology Letters <strong>22</strong>, 1297–1305 (2019)</a> <br><a class=\"noline\" href=\"https://doi.org/10.1101/287300\">bioRxiv 287300</a></p>",
+            "image": "https://www.martinrosvall.com/media/posts/12/BiogeographicalRobusness.jpg",
+            "author": {
+                "name": "Martin Rosvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T00:00:00+02:00",
+            "date_modified": "2019-11-04T07:05:20+01:00"
+        },
+        {
             "id": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html",
             "url": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html",
             "title": "Understanding Complex Systems: From Networks to Optimal Higher-Order Models",
