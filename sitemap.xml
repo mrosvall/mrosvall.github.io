@@ -13,8 +13,16 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.martinrosvall.com/contact.html</loc>
+<lastmod>2019-11-04T11:43:22+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/13/icelab_blue.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.martinrosvall.com/duty-above-all.html</loc>
-<lastmod>2019-11-01T21:32:46+01:00</lastmod>
+<lastmod>2019-11-04T15:39:31+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/8/plikten.png</image:loc>
 <image:title><![CDATA[Duty above all]]></image:title>
@@ -30,7 +38,7 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/people.html</loc>
-<lastmod>2019-10-31T11:54:03+01:00</lastmod>
+<lastmod>2019-11-04T10:35:33+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/5/Rosvall-Group.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -42,6 +50,14 @@
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/9/plikten.png</image:loc>
 <image:title><![CDATA[Plikten frmför allt]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/posts.html</loc>
+<lastmod>2019-11-04T16:06:56+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/14/WritingPost.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
@@ -70,22 +86,10 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html</loc>
-<lastmod>2019-10-05T12:29:48+02:00</lastmod>
+<lastmod>2019-11-04T16:13:41+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/1/HigherOrderNetworkModels-04.svg</image:loc>
 <image:title><![CDATA[Higher-order Markov flows]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://www.martinrosvall.com/welcome-to-integrated-science-lab-icelab.html</loc>
-<lastmod>2019-11-04T06:34:00+01:00</lastmod>
-<image:image>
-<image:loc>https://www.martinrosvall.com/media/posts/6/icelab_rgb-02.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.martinrosvall.com/what-i-write-when-i-dont-write-manuscripts.html</loc>
-<lastmod>2019-11-01T21:31:16+01:00</lastmod>
 </url>
 </urlset>
