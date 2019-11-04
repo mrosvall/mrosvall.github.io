@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.martinrosvall.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.martinrosvall.com/</loc>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/bio.html</loc>
+<lastmod>2019-11-04T06:32:55+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg</image:loc>
+<image:title><![CDATA[Skiing with kids]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/duty-above-all.html</loc>
+<lastmod>2019-11-01T21:32:46+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/8/plikten.png</image:loc>
+<image:title><![CDATA[Duty above all]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/people.html</loc>
+<lastmod>2019-10-31T11:54:03+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/5/Rosvall-Group.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/plikten-framfoer-allt.html</loc>
+<lastmod>2019-11-01T21:32:55+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/9/plikten.png</image:loc>
+<image:title><![CDATA[Plikten frmför allt]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/publications.html</loc>
+<lastmod>2019-11-04T06:35:32+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/3/blur-book-book-pages-2203060.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/research.html</loc>
+<lastmod>2019-11-01T22:28:45+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/10/MartinRosvallIceLab1600x900-2019.jpg</image:loc>
+<image:title><![CDATA[Martin Rosvall]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html</loc>
+<lastmod>2019-11-03T08:11:32+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg</image:loc>
+<image:title><![CDATA[Map of science]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html</loc>
+<lastmod>2019-10-05T12:29:48+02:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/1/HigherOrderNetworkModels-04.svg</image:loc>
+<image:title><![CDATA[Higher-order Markov flows]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/welcome-to-integrated-science-lab-icelab.html</loc>
+<lastmod>2019-11-04T06:34:00+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/6/icelab_rgb-02.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/what-i-write-when-i-dont-write-manuscripts.html</loc>
+<lastmod>2019-11-01T21:31:16+01:00</lastmod>
+</url>
+</urlset>

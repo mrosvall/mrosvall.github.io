@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "martinrosvall.com",
+    "description": "",
+    "home_page_url": "https://www.martinrosvall.com",
+    "feed_url": "https://www.martinrosvall.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Martin Rosvall"
+    },
+    "items": [
+        {
+            "id": "https://www.martinrosvall.com/duty-above-all.html",
+            "url": "https://www.martinrosvall.com/duty-above-all.html",
+            "title": "Duty above all?",
+            "summary": "So, you are on your way home? When I was at your age, I never went home until eight&hellip;",
+            "content_html": "<blockquote>\n<p>So, you are on your way home? When I was at your age, I never went home until eight o'clock!</p>\n</blockquote>\n<p>It was only five o'clock when the white-haired professor lectured us in the elevator heading down to the entrance floor of the building at the University of Washington where I did my postdoc. Since then, countless researchers at various universities have answered my opening line, \"How are you doing?\" with the contagious, \"There's too much going on now,\" before continuing with the jargon that long stressful work days are the only way forward.<br><br>Are never-ending work days the cost of freedom at work? Is it even beneficial for the research?<br><br>Indeed, it is possible to accomplish miracles during long stressful days at work, but many times, \"There's too much going on now,\" is more about self-fraud in the absence of miracles. Once upon a time, long days were the means to achieve great accomplishments, but suddenly long days and stress became goals in themselves. It is so much easier to succeed in that way: Everyone can rise to the status of hero by dragging around in the bog of stress.<br><br>In elite sports, it is called overtraining and gives no status, because everyone knows that overtraining prevents results. With measurable goals it becomes apparent. The training culture that only counts hours does not breed stars. And as little as more miles will pay off for the training addict, will late evenings after already long days at work automatically lead to more research breakthroughs. The perceived security from doing more of the same is a red herring.<br><br>Of course, the solution is the cliché of balance and variation. Rationally, we know that training breaks down and recovery rebuilds, that long workouts must be followed by short workouts, hard workouts by easy, and that rest days are supercompensation days. But when the duty calls from oneself, colleagues, and funding agencies, it feels good to do a couple of extra hours despite muddy thoughts. \"Everybody else does it.\" With duty before all, the collective march continues with heavy steps – at worst in circles.<br><br>The real challenge is to have the courage to break habits and inspire change. The hard thing comes first – to change oneself. It is hardly possible without actionable goals toward the answers to what we truly want to achieve. After that, everything is about never looking away from the goal and about inspiring others to joyful work toward new heights. There are many techniques to get there. Speaking for myself, I try to run with relaxed form and look naturally ahead to avoid cramping and maintain focus.<br>Moreover, there is nothing that beats power naps to keep the stress away and the thoughts clear. And if you ask how I am doing, then I hope I will use <a href=\"http://www.umu.se/sok/personalkatalog?languageId=3&amp;uid=fral0001\">Fredrik Almqvist</a>'s reply: \"Pretty darn well!\" It is also contagious.</p>",
+            "image": "https://www.martinrosvall.com/media/posts/8/plikten.png",
+            "author": {
+                "name": "Martin Rosvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-01T21:23:13+01:00",
+            "date_modified": "2019-11-01T21:32:46+01:00"
+        },
+        {
+            "id": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html",
+            "url": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html",
+            "title": "Understanding Complex Systems: From Networks to Optimal Higher-Order Models",
+            "summary": "Renaud Lambiotte, Martin Rosvall, and Ingo Scholtes Rich data are revealing that complex dependencies between the nodes of a&hellip;",
+            "content_html": "<p><strong>Renaud Lambiotte</strong>, <strong>Martin Rosvall</strong>, and <strong>Ingo Scholtes</strong> <br>Rich data are revealing that complex dependencies between the nodes of a network may not be captured by models based on pairwise interactions. Higher-order network models go beyond these limitations, offering new perspectives for understanding complex systems.</p>\n<p><a href=\"https://doi.org/10.1038/s41567-019-0459-y\" title=\"Paper\" target=\"_blank\" rel=\"noopener noreferrer\">Nature Physics <strong>15</strong>, 313–320 (2019)</a><br><a class=\"noline\" href=\"http://arxiv.org/abs/1806.05977\">arXiv:1806.05977</a></p>\n<p> </p>",
+            "image": "https://www.martinrosvall.com/media/posts/1/HigherOrderNetworkModels-04.svg",
+            "author": {
+                "name": "Martin Rosvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-25T12:00:00+01:00",
+            "date_modified": "2019-10-05T12:29:48+02:00"
+        },
+        {
+            "id": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html",
+            "url": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html",
+            "title": "Maps of random walks on complex networks reveal community structure",
+            "summary": "Martin Rosvall and Carl T. Bergstrom To comprehend the multipartite organization of large-scale biological and social systems, we introduce&hellip;",
+            "content_html": "<p><strong>Martin Rosvall</strong> and <strong>Carl T. Bergstrom</strong><br>To comprehend the multipartite organization of large-scale biological and social systems, we introduce a new information-theoretic approach to reveal community structure in weighted and directed networks. The method decomposes a network into modules by optimally compressing a description of information flows on the network. The result is a map that both simplifies and highlights the regularities in the structure and their relationships to each other. We illustrate the method by making a map of scientific communication as captured in the citation patterns of more than 6000 journals. We discover a multicentric organization with fields that vary dramatically in size and degree of integration into the network of science. Along the backbone of the network — which includes physics, chemistry, molecular biology, and medicine — information flows bidirectionally, but the map reveals a directional pattern of citation from the applied fields to the basic sciences.</p>\n<p><a href=\"https://dx.doi.org/10.1073/pnas.0706851105\" title=\"Paper\" target=\"_blank\" rel=\"noopener noreferrer\">Nature PNAS <strong>105</strong>, 1118 (2008)</a><br><a class=\"noline\" href=\"https://arxiv.org/abs/0707.0609\">arXiv:0707.0609</a></p>\n<p> </p>",
+            "image": "https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg",
+            "author": {
+                "name": "Martin Rosvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2007-12-10T00:00:00+01:00",
+            "date_modified": "2019-11-03T08:11:32+01:00"
+        }
+    ]
+}
