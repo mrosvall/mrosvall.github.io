@@ -3,12 +3,39 @@
     <title>martinrosvall.com</title>
     <link href="https://www.martinrosvall.com/feed.xml" rel="self" />
     <link href="https://www.martinrosvall.com" />
-    <updated>2019-11-06T11:09:44+01:00</updated>
+    <updated>2019-11-15T10:52:05+01:00</updated>
     <author>
         <name>Martin Rosvall</name>
     </author>
     <id>https://www.martinrosvall.com</id>
 
+    <entry>
+        <title>Maps of networks</title>
+        <author>
+            <name>Martin Rosvall</name>
+        </author>
+        <link href="https://www.martinrosvall.com/maps-of-networks.html"/>
+        <id>https://www.martinrosvall.com/maps-of-networks.html</id>
+
+        <updated>2019-11-15T06:19:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.martinrosvall.com/media/posts/16/schematic-mapgenerator.svg" alt="" />
+                    On mapequation.org, we make Infomap and other applications based on the map equation available. For example, you can: Simplify and highlight&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.martinrosvall.com/media/posts/16/schematic-mapgenerator.svg" alt="" />
+                <p>On <a href="https://www.mapequation.org/index.html" target="_blank" rel="noopener noreferrer">mapequation.org</a>, we make Infomap and other applications based on the map equation available. For example, you can: </p>
+<ul style="list-style-type: circle;">
+<li>Simplify and highlight important structures in complex networks</li>
+<li>Reveal structural change in complex networks</li>
+<li>Identify biogeographical regions with Infomap Bioregions</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Duty above all?</title>
         <author>
@@ -83,6 +110,79 @@
         </content>
     </entry>
     <entry>
+        <title>Helping businesses love their data</title>
+        <author>
+            <name>Martin Rosvall</name>
+        </author>
+        <link href="https://www.martinrosvall.com/infobaleen.html"/>
+        <id>https://www.martinrosvall.com/infobaleen.html</id>
+
+        <updated>2019-11-15T08:51:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.martinrosvall.com/media/posts/17/InfobaleenNKlogo_Purple.svg" alt="Infobaleen" />
+                    I am co-founder of Infobaleen together with Daniel Edler, Andrea Lancichinetti, Niklas Lovén, Christian Persson, and Jakob Sjölander. Infobaleen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.martinrosvall.com/media/posts/17/InfobaleenNKlogo_Purple.svg" alt="Infobaleen" />
+                I am co-founder of <a href="http://infobaleen.com/">Infobaleen</a> together with <a href="https://www.umu.se/en/staff/daniel-edler/">Daniel Edler</a>, <a href="https://sites.google.com/site/andrealancichinetti/">Andrea Lancichinetti</a>, <a href="https://www.linkedin.com/in/niklasloven">Niklas Lovén</a>, <a href="https://se.linkedin.com/in/christian-persson-025ba153">Christian Persson</a>, and <a href="https://www.linkedin.com/in/jakob-sj%C3%B6lander-7821642">Jakob Sjölander</a>. Infobaleen is a university spin-off that combines efficient machine learning and data management in a scalable platform. We make our customers' data work for them.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My journey in life and science</title>
+        <author>
+            <name>Martin Rosvall</name>
+        </author>
+        <link href="https://www.martinrosvall.com/bio.html"/>
+        <id>https://www.martinrosvall.com/bio.html</id>
+
+        <updated>2019-11-15T06:44:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg" alt="Skiing with kids" />
+                    I was born in Uppsala and grew up north of Umeå. At 16, I went to a high school for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg" alt="Skiing with kids" />
+                <p>I was born in Uppsala and grew up north of Umeå. At 16, I went to a high school for cross-country skiing in Lycksele before my undergraduate in engineering physics. After my Ph.D. in network science at the Niels Bohr Institute in Copenhagen, I moved to the Department of Biology at the University of Washington in Seattle for my postdoc. There I started working on a grand challenge in network science: how to simplify and highlight essential regularities in networks into maps. Mapping networks is a holy grail of data science because in the myriad links and nodes of a network hide answers to how we can predict how the system will evolve.</p>
+<p>From 2009 at Umeå University, and since 2019 as a professor in physics with focus on computational science, I have continued to develop and integrate new math, algorithms, and visualizations into powerful mapping tools for efficiently going from interaction data to insightful maps, new hypotheses, and unexpected discoveries. With a diverse research group in <a href="https://icelab.se" target="_blank" rel="noopener noreferrer">Icelab</a> and a growing collaboration network, our applications now extend across both the natural and social sciences.</p>
+<p>As a professional power napper, my favorite place in IceLab after lunch is a hidden couch.</p>
+<p>I am fortunate to live between the university and the ski trails with my wife Marie and our two daughters born in 2014 and 2018. When I am not in a playground with my daughters, you will find me increasing my dopamine levels on cross-country skis.</p>
+<p>In 2014, I received the Nordea Science Prize and in 2018 the Young Scientist Award for Socio- and Econophysics.</p>
+<p>My research is funded by the Swedish Research Council, the Olle Engkvist Byggmästare Foundation, and the Carl Trygger Foundation. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Oh, well. What&#x27;s an interdisciplinary workshop?</title>
+        <author>
+            <name>Martin Rosvall</name>
+        </author>
+        <link href="https://www.martinrosvall.com/oh-well-whats-an-interdisciplinary-workshop.html"/>
+        <id>https://www.martinrosvall.com/oh-well-whats-an-interdisciplinary-workshop.html</id>
+
+        <updated>2019-11-15T08:49:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.martinrosvall.com/media/posts/18/IceLabCamp-1.jpg" alt="" />
+                    As a young disoriented PhD student, I was invited to an interdisciplinary workshop in the outskirts of the Fontainebleau&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.martinrosvall.com/media/posts/18/IceLabCamp-1.jpg" alt="" />
+                As a young disoriented PhD student, I was invited to an interdisciplinary workshop in the outskirts of the Fontainebleau forest south of Paris. It became a defining moment for me as a researcher. I came there as a student who knew how to answer questions, following well-established recipes. After a week with French Master's students from different disciplines, doing nothing but asking questions and juggling ideas, I left as an explorer into the unknown guided by research questions.<br><br>While I have been lost many times also after the workshop, I never lost the inner compass and the excitement for the unknown. Instead I decided that one day, when I have support to organize a similar workshop, I will pay back to the scientific community and organize a similar workshop. Today I am coming back from my seventh, hoping that some of the more than one hundred Master's students, PhD students, and Postdocs who have participated over the years still can fuel themselves with memories from the many magical aha! moments I have witnessed. <br><br><a href="https://icelab.se/event/icelab-camp-2019/" target="_blank" rel="noopener noreferrer">IceLab Camp</a> is about all that coffee break wisdom that it can take years to collect. Equipped only with their curiosity and creativity, the participants let ideas meet and mate to carve out interdisciplinary research proposals. It is a four day long tour de force into the unknown, accompanied by the beauty that autumn days in Northern Sweden can offer, to achieve researcher's high.<br>
+<blockquote>Oh, well. What's an interdisciplinary workshop? After all, I suppose it would be frightfully dull, and-and-and boring, and-and completely... Completely wonderful.</blockquote>
+<em>In the Professor Magenta podcast episode <a href="https://soundcloud.com/professormagenta/research-remix-cut" target="_blank" rel="noopener noreferrer">PM SPECIAL – Är framtidens forskning den gränslösa</a> (10 minutes), one of the participants, Katarina Bendtz from Stockholm University, interviews three other participants from the workshop. Akbar Espaillat, Mariana Mariana Buongermino Pereira, and Ulf Aslak Jensen give a brief introduction to their PhD projects and explain how their research combines methods from different disciplines in a productive way. The students are affiliated with MIMS, Umeå University, Chalmers University of Technology and Copenhagen University, respectively.</em>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Mapping change in large networks</title>
         <author>
             <name>Martin Rosvall</name>
@@ -90,7 +190,7 @@
         <link href="https://www.martinrosvall.com/mapping-change-in-large-networks.html"/>
         <id>https://www.martinrosvall.com/mapping-change-in-large-networks.html</id>
 
-        <updated>2019-11-06T11:06:02+01:00</updated>
+        <updated>2019-11-08T16:13:09+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/15/neuroAlluvial2001-2007.svg" alt="" />
@@ -114,7 +214,7 @@
         <link href="https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html"/>
         <id>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html</id>
 
-        <updated>2019-11-06T11:00:33+01:00</updated>
+        <updated>2019-11-08T16:13:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg" alt="Map of science" />

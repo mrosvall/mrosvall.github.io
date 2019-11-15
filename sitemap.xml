@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/bio.html</loc>
-<lastmod>2019-11-04T06:32:55+01:00</lastmod>
+<lastmod>2019-11-15T06:44:16+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg</image:loc>
 <image:title><![CDATA[Skiing with kids]]></image:title>
@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/contact.html</loc>
-<lastmod>2019-11-04T11:43:22+01:00</lastmod>
+<lastmod>2019-11-15T06:24:17+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/13/icelab_blue.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -37,10 +37,34 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.martinrosvall.com/infobaleen.html</loc>
+<lastmod>2019-11-15T08:51:19+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/17/InfobaleenNKlogo_Purple.svg</image:loc>
+<image:title><![CDATA[Infobaleen]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.martinrosvall.com/mapping-change-in-large-networks.html</loc>
-<lastmod>2019-11-06T11:06:02+01:00</lastmod>
+<lastmod>2019-11-08T16:13:09+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/15/neuroAlluvial2001-2007.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/maps-of-networks.html</loc>
+<lastmod>2019-11-15T06:19:09+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/16/schematic-mapgenerator.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.martinrosvall.com/oh-well-whats-an-interdisciplinary-workshop.html</loc>
+<lastmod>2019-11-15T08:49:12+01:00</lastmod>
+<image:image>
+<image:loc>https://www.martinrosvall.com/media/posts/18/IceLabCamp-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -62,7 +86,7 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/posts.html</loc>
-<lastmod>2019-11-04T16:06:56+01:00</lastmod>
+<lastmod>2019-11-15T10:51:15+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/14/WritingPost.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -78,7 +102,7 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/research.html</loc>
-<lastmod>2019-11-06T09:11:06+01:00</lastmod>
+<lastmod>2019-11-14T20:35:49+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/10/MartinRosvallIceLab1600x900-2019.jpg</image:loc>
 <image:title><![CDATA[Martin Rosvall]]></image:title>
@@ -86,7 +110,7 @@
 </url>
 <url>
 <loc>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html</loc>
-<lastmod>2019-11-06T11:00:33+01:00</lastmod>
+<lastmod>2019-11-08T16:13:22+01:00</lastmod>
 <image:image>
 <image:loc>https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg</image:loc>
 <image:title><![CDATA[Map of science]]></image:title>
