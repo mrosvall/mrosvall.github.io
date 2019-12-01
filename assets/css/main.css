@@ -1193,7 +1193,10 @@ textarea {
       .logo {
         font-size: 2.03384rem; } }
   .logo > img {
-    max-height: 6rem; }
+    max-height: 4rem; }
+    @media all and (min-width: 56.25em) {
+      .logo > img {
+        max-height: 5rem; } }
 
 .search {
   -webkit-box-ordinal-group: 3;
@@ -2102,25 +2105,18 @@ textarea {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 2rem 5%;
         -ms-grid-rows: auto 2rem auto 2rem auto;
-        grid-template-areas: "left center-top"
- "center-middle center-bottom"
- "right right"; } }
+        grid-template-areas: "left center-top" "center-middle center-bottom" "right right"; } }
     @media all and (min-width: 56.25em) {
       .editor-picks__feed {
         grid-gap: 2rem 10%;
-        grid-template-areas: "left center-top"
- "left center-middle"
- "left center-bottom"
- "right right"; } }
+        grid-template-areas: "left center-top" "left center-middle" "left center-bottom" "right right"; } }
     @media all and (min-width: 75em) {
       .editor-picks__feed {
         -ms-grid-columns: minmax(20rem, 1fr) 6rem minmax(20rem, 1fr) 6rem 16rem;
         grid-template-columns: repeat(2, minmax(20rem, 1fr)) 16rem;
         grid-gap: 2rem 6rem;
         -ms-grid-rows: auto 2rem auto 2rem auto;
-        grid-template-areas: "left center-top right"
- "left center-middle right"
- "left center-bottom right"; } }
+        grid-template-areas: "left center-top right" "left center-middle right" "left center-bottom right"; } }
     @media all and (min-width: 37.5em) {
       .editor-picks__feed .feed__item:nth-child(1) {
         grid-area: left; }
@@ -3056,17 +3052,14 @@ textarea {
     -ms-grid-columns: 1fr 1rem 1fr;
     grid-template-columns: repeat(2, 1fr);
     -ms-grid-rows: auto 0.56667rem auto 0.56667rem auto;
-    grid-template-areas: "logo social"
- "nav nav"
- "copy copy";
+    grid-template-areas: "logo social" "nav nav" "copy copy";
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
     text-align: center; }
     @media all and (min-width: 56.25em) {
       .footer__inner {
-        grid-template-areas: "logo social"
- "nav copy";
+        grid-template-areas: "logo social" "nav copy";
         text-align: left; } }
   .footer a {
     color: var(--link-invert-color);
