@@ -3,7 +3,7 @@
     <title>martinrosvall.com</title>
     <link href="https://www.martinrosvall.com/feed.xml" rel="self" />
     <link href="https://www.martinrosvall.com" />
-    <updated>2019-12-16T23:23:22+01:00</updated>
+    <updated>2019-12-20T06:50:52+01:00</updated>
     <author>
         <name>Martin Rosvall</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://www.martinrosvall.com/maps-of-networks.html"/>
         <id>https://www.martinrosvall.com/maps-of-networks.html</id>
+            <category term="Interests"/>
 
         <updated>2019-11-15T06:19:09+01:00</updated>
             <summary>
@@ -43,6 +44,7 @@
         </author>
         <link href="https://www.martinrosvall.com/duty-above-all.html"/>
         <id>https://www.martinrosvall.com/duty-above-all.html</id>
+            <category term="Blog post"/>
 
         <updated>2019-11-04T15:39:31+01:00</updated>
             <summary>
@@ -69,6 +71,7 @@
         </author>
         <link href="https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions.html"/>
         <id>https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions.html</id>
+            <category term="Publications"/>
 
         <updated>2019-11-04T07:05:20+01:00</updated>
             <summary>
@@ -92,6 +95,8 @@
         </author>
         <link href="https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html"/>
         <id>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html</id>
+            <category term="Publications"/>
+            <category term="Higher-order network models"/>
 
         <updated>2019-11-06T10:23:57+01:00</updated>
             <summary>
@@ -116,6 +121,7 @@
         </author>
         <link href="https://www.martinrosvall.com/infobaleen.html"/>
         <id>https://www.martinrosvall.com/infobaleen.html</id>
+            <category term="Interests"/>
 
         <updated>2019-11-26T06:37:52+01:00</updated>
             <summary>
@@ -138,6 +144,7 @@
         </author>
         <link href="https://www.martinrosvall.com/bio.html"/>
         <id>https://www.martinrosvall.com/bio.html</id>
+            <category term="Interests"/>
 
         <updated>2019-11-15T06:44:16+01:00</updated>
             <summary>
@@ -189,6 +196,8 @@
         </author>
         <link href="https://www.martinrosvall.com/mapping-change-in-large-networks.html"/>
         <id>https://www.martinrosvall.com/mapping-change-in-large-networks.html</id>
+            <category term="Selected publications"/>
+            <category term="Publications"/>
 
         <updated>2019-11-08T16:13:09+01:00</updated>
             <summary>
@@ -213,6 +222,8 @@
         </author>
         <link href="https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html"/>
         <id>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html</id>
+            <category term="Selected publications"/>
+            <category term="Publications"/>
 
         <updated>2019-11-08T16:13:22+01:00</updated>
             <summary>

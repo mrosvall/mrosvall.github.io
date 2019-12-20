@@ -21,6 +21,7 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Interests"
             ],
             "date_published": "2019-11-08T13:38:03+01:00",
             "date_modified": "2019-11-15T06:19:09+01:00"
@@ -36,6 +37,7 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Blog post"
             ],
             "date_published": "2019-11-01T21:23:13+01:00",
             "date_modified": "2019-11-04T15:39:31+01:00"
@@ -51,6 +53,7 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Publications"
             ],
             "date_published": "2019-06-12T00:00:00+02:00",
             "date_modified": "2019-11-04T07:05:20+01:00"
@@ -66,6 +69,8 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Publications",
+                   "Higher-order network models"
             ],
             "date_published": "2019-03-25T12:00:00+01:00",
             "date_modified": "2019-11-06T10:23:57+01:00"
@@ -81,6 +86,7 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Interests"
             ],
             "date_published": "2019-01-01T06:41:00+01:00",
             "date_modified": "2019-11-26T06:37:52+01:00"
@@ -96,6 +102,7 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Interests"
             ],
             "date_published": "2019-01-01T00:00:00+01:00",
             "date_modified": "2019-11-15T06:44:16+01:00"
@@ -126,6 +133,8 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Selected publications",
+                   "Publications"
             ],
             "date_published": "2010-01-27T00:00:00+01:00",
             "date_modified": "2019-11-08T16:13:09+01:00"
@@ -141,6 +150,8 @@
                 "name": "Martin Rosvall"
             },
             "tags": [
+                   "Selected publications",
+                   "Publications"
             ],
             "date_published": "2007-12-10T00:00:00+01:00",
             "date_modified": "2019-11-08T16:13:22+01:00"
