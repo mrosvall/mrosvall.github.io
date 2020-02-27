@@ -2815,71 +2815,91 @@ textarea {
   margin: 0 auto;
   width: 4rem; }
 
-.instagram__inner {
+.bottom-news__inner {
   border-top: 1px solid var(--border-color-lighter);
   text-align: center; }
-  .instagram__inner h2 {
+  .bottom-news__inner h2 {
     margin: 0 0 2.26667rem;
     padding-top: 2.26667rem; }
-    .instagram__inner h2 svg {
+    .bottom-news__inner h2 svg {
       display: inline-block;
       margin-right: 0.56667rem;
       vertical-align: middle; }
-  .instagram__inner p {
+  .bottom-news__inner p {
     margin: 0; }
 
-.instagram__container {
+.bottom-news__container {
   display: -ms-grid;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(8rem, -webkit-max-content));
-  grid-template-columns: repeat(auto-fit, minmax(8rem, max-content));
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
   margin: 0;
   min-height: 150px; }
-  .instagram__container li {
+  @media all and (min-width: 37.5em) {
+    .bottom-news__container {
+      -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr); } }
+  @media all and (min-width: 56.25em) {
+    .bottom-news__container {
+      -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr); } }
+  @media all and (min-width: 75em) {
+    .bottom-news__container {
+      -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr); } }
+  .bottom-news__container li {
     list-style: none;
     padding: 0;
     position: relative; }
-    .instagram__container li:hover .instagram__meta {
+    .bottom-news__container li:hover .bottom-news__meta {
       opacity: 1;
       -webkit-transform: translateY(0);
       -ms-transform: translateY(0);
       transform: translateY(0); }
-    .instagram__container li a {
-      display: block; }
-      .instagram__container li a::after {
-        background: -webkit-gradient(linear, left bottom, left top, from(var(--image-overlay-hover)), to(transparent));
-        background: -webkit-linear-gradient(bottom, var(--image-overlay-hover), transparent);
-        background: -o-linear-gradient(bottom, var(--image-overlay-hover), transparent);
-        background: linear-gradient(to top, var(--image-overlay-hover), transparent);
-        content: "";
-        display: block;
-        opacity: 0;
-        left: 0;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        -webkit-transition: all .24s ease-out;
-        -o-transition: all .24s ease-out;
-        transition: all .24s ease-out;
-        width: 100%; }
-      .instagram__container li a:hover::after {
-        opacity: 0.4; }
-      .instagram__container li a > img {
-        max-height: 20rem;
-        width: auto; }
 
-.instagram__meta {
-  bottom: 1.2rem;
+.bottom-news__image {
+  background-color: var(--lighter);
+  background-size: 24% 24%;
+  display: block;
+  height: 20rem;
+  width: 100%; }
+  .bottom-news__image::after {
+    background: -webkit-gradient(linear, left bottom, left top, from(var(--image-overlay-hover)), to(transparent));
+    background: -webkit-linear-gradient(bottom, var(--image-overlay-hover), transparent);
+    background: -o-linear-gradient(bottom, var(--image-overlay-hover), transparent);
+    background: linear-gradient(to top, var(--image-overlay-hover), transparent);
+    content: "";
+    display: block;
+    opacity: 0;
+    left: 0;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    -webkit-transition: all .24s ease-out;
+    -o-transition: all .24s ease-out;
+    transition: all .24s ease-out;
+    width: 100%; }
+  .bottom-news__image:hover::after {
+    opacity: 0.4; }
+  .bottom-news__image > img {
+    display: block;
+    height: 100%;
+    left: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100%; }
+
+.bottom-news__meta {
+  bottom: 2rem;
   color: var(--white);
   display: inline-block;
-  font-size: 0.87891rem;
-  line-height: 1;
   left: 1.2rem;
+  right: 1.2rem;
   opacity: 0;
   position: absolute;
+  text-align: center;
   -webkit-transform: translateY(1.2rem);
   -ms-transform: translateY(1.2rem);
   transform: translateY(1.2rem);
@@ -2887,23 +2907,6 @@ textarea {
   -o-transition: all .24s ease-out;
   transition: all .24s ease-out;
   vertical-align: middle; }
-
-.instagram__likes {
-  background-image: url("data:image/svg+xml;charset=UTF-8, %3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 14 14'%3e%3cpath d='M11.9,2.2C10.4,0.8,8,0.7,6.5,1.9C5.8,1.3,4.9,1,4,1c0,0,0,0,0,0C2.9,1,1.9,1.4,1.1,2.2c-1.5,1.5-1.5,4,0,5.5 L6.5,13l5.4-5.3C13.4,6.2,13.4,3.7,11.9,2.2z M10.4,6.3l-3.9,3.9L2.6,6.3c-0.7-0.7-0.7-2,0-2.7C3,3.2,3.5,3,4,3h0 c0.5,0,1,0.2,1.3,0.5l1.2,1.2l1.2-1.2c0.7-0.7,2-0.7,2.7,0C11.1,4.3,11.1,5.5,10.4,6.3z' fill='%23ffffff'/%3e%3c/svg%3e");
-  background-repeat: no-repeat;
-  background-position: 0 60%;
-  background-size: 14px 13px;
-  padding-left: 1.13333rem; }
-
-.instagram__comments {
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3c?xml version='1.0' encoding='utf-8'?%3e%3csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 14 14' xml:space='preserve'%3e%3cpath d='M7.37,3l0.02,0h0.34C9.99,3.12,11.85,4.61,12,6.41l0,0.27c0,0.52-0.14,1.03-0.43,1.52c-0.76,1.3-2.4,2.14-4.2,2.14 c-0.74,0-1.49-0.15-2.14-0.44C4.98,9.79,4.7,9.73,4.43,9.73c-0.18,0-0.37,0.03-0.55,0.08L3.34,9.92C3.56,9.35,3.51,8.71,3.2,8.18 C2.92,7.71,2.78,7.2,2.78,6.67c0-1.35,0.94-2.58,2.45-3.23C5.89,3.15,6.63,3,7.37,3 M7.37,1C6.35,1,5.34,1.21,4.43,1.6 C2.19,2.56,0.78,4.52,0.78,6.67c0,0.88,0.24,1.75,0.7,2.53L0,13l4.43-1.27c0.91,0.39,1.92,0.6,2.94,0.6c0.01,0,0.01,0,0.02,0 c2.5,0,4.79-1.21,5.91-3.13C13.76,8.41,14,7.55,14,6.67V6.33C13.81,3.46,11.13,1.16,7.78,1H7.39C7.38,1,7.38,1,7.37,1L7.37,1z' fill='%23ffffff' /%3e%3c/svg%3e");
-  background-repeat: no-repeat;
-  background-position: 0 60%;
-  background-size: 14px 13px;
-  padding-left: 1.13333rem; }
-
-.instagram__likes + .instagram__comments {
-  margin-left: 0.85rem; }
 
 .page {
   margin-top: 2.26667rem; }

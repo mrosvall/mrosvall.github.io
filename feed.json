@@ -24,7 +24,7 @@
                    "Interests"
             ],
             "date_published": "2019-11-08T13:38:03+01:00",
-            "date_modified": "2019-11-15T06:19:09+01:00"
+            "date_modified": "2020-02-27T07:10:57+01:00"
         },
         {
             "id": "https://www.martinrosvall.com/duty-above-all.html",
@@ -56,14 +56,14 @@
                    "Publications"
             ],
             "date_published": "2019-06-12T00:00:00+02:00",
-            "date_modified": "2020-01-05T19:46:19+01:00"
+            "date_modified": "2020-02-27T07:05:43+01:00"
         },
         {
             "id": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html",
             "url": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html",
             "title": "Understanding Complex Systems: From Networks to Optimal Higher-Order Models",
             "summary": "Renaud Lambiotte, Martin Rosvall, and Ingo Scholtes Rich data are revealing that complex dependencies between the nodes of a&hellip;",
-            "content_html": "<p><strong>Renaud Lambiotte</strong>, <strong>Martin Rosvall</strong>, and <strong>Ingo Scholtes</strong> </p>\n<p>Rich data are revealing that complex dependencies between the nodes of a network may not be captured by models based on pairwise interactions. Higher-order network models go beyond these limitations, offering new perspectives for understanding complex systems.</p>\n<p><a href=\"https://doi.org/10.1038/s41567-019-0459-y\" title=\"Paper\" target=\"_blank\" rel=\"noopener noreferrer\">Nature Physics <strong>15</strong>, 313–320 (2019)</a><br><a class=\"noline\" href=\"http://arxiv.org/abs/1806.05977\">arXiv:1806.05977</a></p>\n<p> </p>",
+            "content_html": "<p><strong>Renaud Lambiotte</strong>, <strong>Martin Rosvall</strong>, and <strong>Ingo Scholtes</strong></p>\n<p>Rich data are revealing that complex dependencies between the nodes of a network may not be captured by models based on pairwise interactions. Higher-order network models go beyond these limitations, offering new perspectives for understanding complex systems.</p>\n<p><a href=\"https://doi.org/10.1038/s41567-019-0459-y\" title=\"Paper\" target=\"_blank\" rel=\"noopener noreferrer\">Nature Physics <strong>15</strong>, 313–320 (2019)</a><br><a class=\"noline\" href=\"http://arxiv.org/abs/1806.05977\">arXiv:1806.05977</a></p>\n<p> </p>",
             "image": "https://www.martinrosvall.com/media/posts/1/HigherOrderNetworkModels-04.svg",
             "author": {
                 "name": "Martin Rosvall"
@@ -73,7 +73,7 @@
                    "Higher-order network models"
             ],
             "date_published": "2019-03-25T12:00:00+01:00",
-            "date_modified": "2020-01-05T19:55:43+01:00"
+            "date_modified": "2020-02-27T07:06:56+01:00"
         },
         {
             "id": "https://www.martinrosvall.com/infobaleen.html",
@@ -127,7 +127,7 @@
             "url": "https://www.martinrosvall.com/mapping-change-in-large-networks.html",
             "title": "Mapping change in large networks",
             "summary": "Martin Rosvall and Carl T. Bergstrom Change is a fundamental ingredient of interaction patterns in biology, technology, the economy, and science&hellip;",
-            "content_html": "<p><strong>Martin Rosvall</strong> and <strong>Carl T. Bergstrom</strong></p>\n<p>Change is a fundamental ingredient of interaction patterns in biology, technology, the economy, and science itself: Interactions within and between organisms change; transportation patterns by air, land, and sea all change; the global financial flow changes; and the frontiers of scientific research change. Networks and clustering methods have become important tools to comprehend instances of these large-scale structures, but without methods to distinguish between real trends and noisy data, these approaches are not useful for studying how networks change. Only if we can assign significance to the partitioning of single networks can we distinguish meaningful structural changes from random fluctuations. Here we show that bootstrap resampling accompanied by significance clustering provides a solution to this problem. To connect changing structures with the changing function of networks, we highlight and summarize the significant structural changes with alluvial diagrams and realize de Solla Price's vision of mapping change in science: studying the citation pattern between about 7000 scientific journals over the past decade, we find that neuroscience has transformed from an interdisciplinary specialty to a mature and stand-alone discipline.</p>\n<p><a href=\"https://doi.org/10.1371/journal.pone.0008694\">PLoS One 5(1): e8694</a><br><a href=\"https://arxiv.org/abs/0812.1242\">arXiv:0812.1242</a></p>\n<p>Code for the community-detection algorithm <a href=\"https://www.mapequation.org/code.html\" target=\"_blank\" rel=\"noopener noreferrer\">Infomap</a>, <a href=\"https://www.mapequation.org/infomap/\" target=\"_blank\" rel=\"noopener noreferrer\">Infomap online</a>, and <a href=\"https://www.mapequation.org/apps.html\" target=\"_blank\" rel=\"noopener noreferrer\">interactive applications</a> for <a href=\"https://www.mapequation.org/apps/MapGenerator.html\" target=\"_blank\" rel=\"noopener noreferrer\">generating network maps</a>, <a href=\"https://www.mapequation.org/navigator/\" target=\"_blank\" rel=\"noopener noreferrer\">exploring networks</a>, <a href=\"https://www.mapequation.org/alluvial/\" target=\"_blank\" rel=\"noopener noreferrer\">visualizing changes in networks</a> and explaining the machinery of  the map equation for <a href=\"https://www.mapequation.org/apps/MapDemo.html\" target=\"_blank\" rel=\"noopener noreferrer\">standard</a>, <a href=\"https://www.mapequation.org/apps/multilayer-network/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">multilevel</a>, and <a href=\"https://www.mapequation.org/apps/sparse-memory-network/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">higher-order</a> networks are available on <a href=\"https://www.mapequation.org\" target=\"_blank\" rel=\"noopener noreferrer\">mapequation.org</a></p>",
+            "content_html": "<p><strong>Martin Rosvall</strong> and <strong>Carl T. Bergstrom</strong></p>\n<p>Change is a fundamental ingredient of interaction patterns in biology, technology, the economy, and science itself: Interactions within and between organisms change; transportation patterns by air, land, and sea all change; the global financial flow changes; and the frontiers of scientific research change. Networks and clustering methods have become important tools to comprehend instances of these large-scale structures, but without methods to distinguish between real trends and noisy data, these approaches are not useful for studying how networks change. Only if we can assign significance to the partitioning of single networks can we distinguish meaningful structural changes from random fluctuations. Here we show that bootstrap resampling accompanied by significance clustering provides a solution to this problem. To connect changing structures with the changing function of networks, we highlight and summarize the significant structural changes with alluvial diagrams and realize de Solla Price's vision of mapping change in science: studying the citation pattern between about 7000 scientific journals over the past decade, we find that neuroscience has transformed from an interdisciplinary specialty to a mature and stand-alone discipline.</p>\n<p><a href=\"https://doi.org/10.1371/journal.pone.0008694\">PLoS One 5(1): e8694 (2010)</a><br><a href=\"https://arxiv.org/abs/0812.1242\">arXiv:0812.1242</a></p>\n<p>Code for the community-detection algorithm <a href=\"https://www.mapequation.org/code.html\" target=\"_blank\" rel=\"noopener noreferrer\">Infomap</a>, <a href=\"https://www.mapequation.org/infomap/\" target=\"_blank\" rel=\"noopener noreferrer\">Infomap online</a>, and <a href=\"https://www.mapequation.org/apps.html\" target=\"_blank\" rel=\"noopener noreferrer\">interactive applications</a> for <a href=\"https://www.mapequation.org/apps/MapGenerator.html\" target=\"_blank\" rel=\"noopener noreferrer\">generating network maps</a>, <a href=\"https://www.mapequation.org/navigator/\" target=\"_blank\" rel=\"noopener noreferrer\">exploring networks</a>, <a href=\"https://www.mapequation.org/alluvial/\" target=\"_blank\" rel=\"noopener noreferrer\">visualizing changes in networks</a> and explaining the machinery of  the map equation for <a href=\"https://www.mapequation.org/apps/MapDemo.html\" target=\"_blank\" rel=\"noopener noreferrer\">standard</a>, <a href=\"https://www.mapequation.org/apps/multilayer-network/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">multilevel</a>, and <a href=\"https://www.mapequation.org/apps/sparse-memory-network/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">higher-order</a> networks are available on <a href=\"https://www.mapequation.org\" target=\"_blank\" rel=\"noopener noreferrer\">mapequation.org</a></p>",
             "image": "https://www.martinrosvall.com/media/posts/15/neuroAlluvial2001-2007.svg",
             "author": {
                 "name": "Martin Rosvall"
@@ -137,7 +137,7 @@
                    "Publications"
             ],
             "date_published": "2010-01-27T00:00:00+01:00",
-            "date_modified": "2020-01-05T19:46:39+01:00"
+            "date_modified": "2020-02-27T07:04:21+01:00"
         },
         {
             "id": "https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html",
@@ -154,7 +154,7 @@
                    "Publications"
             ],
             "date_published": "2007-12-10T00:00:00+01:00",
-            "date_modified": "2020-01-05T19:55:27+01:00"
+            "date_modified": "2020-02-27T07:04:05+01:00"
         }
     ]
 }
