@@ -3,7 +3,7 @@
     <title>martinrosvall.com</title>
     <link href="https://www.martinrosvall.com/feed.xml" rel="self" />
     <link href="https://www.martinrosvall.com" />
-    <updated>2020-03-03T21:51:26+01:00</updated>
+    <updated>2021-05-31T12:25:26+02:00</updated>
     <author>
         <name>Martin Rosvall</name>
     </author>
@@ -148,7 +148,7 @@
         <id>https://www.martinrosvall.com/bio.html</id>
             <category term="Interests"/>
 
-        <updated>2019-11-15T06:44:16+01:00</updated>
+        <updated>2021-05-31T12:25:26+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg" alt="Skiing with kids" />
@@ -163,7 +163,10 @@
 <p>As a professional power napper, my favorite place in IceLab after lunch is a hidden couch.</p>
 <p>I am fortunate to live between the university and the ski trails with my wife Marie and our two daughters born in 2014 and 2018. When I am not in a playground with my daughters, you will find me increasing my dopamine levels on cross-country skis.</p>
 <p>In 2014, I received the Nordea Science Prize and in 2018 the Young Scientist Award for Socio- and Econophysics.</p>
-<p>My research is funded by the Swedish Research Council, the Olle Engkvist Byggmästare Foundation, and the Carl Trygger Foundation. </p>
+<p>Currently, my research is funded by the Swedish Research Council, Knut and Alice Wallenberg Foundation, and the Swedish Foundation for Strategic Research.</p>
+<p> </p>
+<p>In May 2021, <a href="https://sunelehmann.com">Sune Lehmann</a> interviewed me in his podcast <a href="https://sunelehmann.com/2021/03/23/podcast-trailer-too-lazy-to-read-the-paper/" target="_blank" rel="noopener noreferrer">Too Lazy to Read the Paper</a> about how I became a network scientist.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GaxnC8MtUW4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
