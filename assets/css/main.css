@@ -3596,6 +3596,22 @@ textarea {
   position: absolute;
 }
 
+.reversed-ordered-list {
+}
+
+.reversed-ordered-list li {
+  counter-increment: reversedListCounter -1;
+  list-style: none;
+  position: relative;
+}
+.reversed-ordered-list li::before {
+  color: var(--secondary-color);
+  content: counter(reversedListCounter, decimal-leading-zero) ".";
+  font-weight: 600;
+  left: -2rem;
+  position: absolute;
+}
+
 .msg {
   padding: 1.1333333333rem 2.2666666667rem;
   border: 2px solid transparent;
