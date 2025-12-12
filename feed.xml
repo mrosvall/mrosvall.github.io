@@ -3,7 +3,7 @@
     <title>martinrosvall.com</title>
     <link href="https://www.martinrosvall.com/feed.xml" rel="self" />
     <link href="https://www.martinrosvall.com" />
-    <updated>2022-08-19T21:43:28+02:00</updated>
+    <updated>2021-06-04T10:25:24+02:00</updated>
     <author>
         <name>Martin Rosvall</name>
     </author>
@@ -17,10 +17,9 @@
         <link href="https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-3.html"/>
         <id>https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-3.html</id>
         <media:content url="https://www.martinrosvall.com/media/posts/21/klimatzoner-pa-jorden-30430crop07120991181resize1280720autoorientquality90density150stripextensionjpgid16.jpg" medium="image" />
-            <category term="Publications"/>
 
         <updated>2021-06-04T09:48:25+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/21/klimatzoner-pa-jorden-30430crop07120991181resize1280720autoorientquality90density150stripextensionjpgid16.jpg" alt="The distribution of vertebrate animals redefines temperate and cold climate regions" />
                     Joaquín Calatayud, Magnus Neuman, Alexis Rojas, Anton Eriksson, and Martin Rosvall Climate regions form the basis of many ecological,&hellip;
@@ -43,10 +42,9 @@
         <link href="https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-2.html"/>
         <id>https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-2.html</id>
         <media:content url="https://www.martinrosvall.com/media/posts/20/marine-fauna-30807crop0019191079resize1280720autoorientquality90density150stripextensionjpgid16.jpg" medium="image" />
-            <category term="Publications"/>
 
         <updated>2021-06-04T06:39:58+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/20/marine-fauna-30807crop0019191079resize1280720autoorientquality90density150stripextensionjpgid16.jpg" alt="A multiscale view of the marine life" />
                     Alexis Rojas, Joaquín Calatayud, Michal Kowalewski, Magnus Neuman, and Martin Rosvall The hypothesis of the Great Evolutionary Faunas is&hellip;
@@ -62,63 +60,6 @@
         </content>
     </entry>
     <entry>
-        <title>Maps of networks</title>
-        <author>
-            <name>Martin Rosvall</name>
-        </author>
-        <link href="https://www.martinrosvall.com/maps-of-networks.html"/>
-        <id>https://www.martinrosvall.com/maps-of-networks.html</id>
-        <media:content url="https://www.martinrosvall.com/media/posts/16/schematic-mapgenerator.svg" medium="image" />
-            <category term="Interests"/>
-
-        <updated>2019-11-08T13:38:03+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.martinrosvall.com/media/posts/16/schematic-mapgenerator.svg" alt="" />
-                    On mapequation.org, we make Infomap and other applications based on the map equation available. For example, you can: Simplify and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.martinrosvall.com/media/posts/16/schematic-mapgenerator.svg" class="type:primaryImage" alt="" /></p>
-                <p>On <a href="https://www.mapequation.org/index.html" target="_blank" rel="noopener noreferrer">mapequation.org</a>, we make Infomap and other applications based on the map equation available. For example, you can: </p>
-<ul style="list-style-type: circle;">
-<li>Simplify and highlight important structures in complex networks</li>
-<li>Reveal structural change in complex networks</li>
-<li>Identify biogeographical regions with Infomap Bioregions</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Duty above all?</title>
-        <author>
-            <name>Martin Rosvall</name>
-        </author>
-        <link href="https://www.martinrosvall.com/duty-above-all.html"/>
-        <id>https://www.martinrosvall.com/duty-above-all.html</id>
-        <media:content url="https://www.martinrosvall.com/media/posts/8/plikten.png" medium="image" />
-            <category term="Blog post"/>
-
-        <updated>2019-11-01T21:23:13+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.martinrosvall.com/media/posts/8/plikten.png" alt="Duty above all" />
-                    So, you are on your way home? When I was at your age, I never went home until eight&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.martinrosvall.com/media/posts/8/plikten.png" class="type:primaryImage" alt="Duty above all" /></p>
-                <blockquote>
-<p>So, you are on your way home? When I was at your age, I never went home until eight o'clock!</p>
-</blockquote>
-<p>It was only five o'clock when the white-haired professor lectured us in the elevator heading down to the entrance floor of the building at the University of Washington where I did my postdoc. Since then, countless researchers at various universities have answered my opening line, "How are you doing?" with the contagious, "There's too much going on now," before continuing with the jargon that long stressful work days are the only way forward.<br><br>Are never-ending work days the cost of freedom at work? Is it even beneficial for the research?<br><br>Indeed, it is possible to accomplish miracles during long stressful days at work, but many times, "There's too much going on now," is more about self-fraud in the absence of miracles. Once upon a time, long days were the means to achieve great accomplishments, but suddenly long days and stress became goals in themselves. It is so much easier to succeed in that way: Everyone can rise to the status of hero by dragging around in the bog of stress.<br><br>In elite sports, it is called overtraining and gives no status, because everyone knows that overtraining prevents results. With measurable goals it becomes apparent. The training culture that only counts hours does not breed stars. And as little as more miles will pay off for the training addict, will late evenings after already long days at work automatically lead to more research breakthroughs. The perceived security from doing more of the same is a red herring.<br><br>Of course, the solution is the cliché of balance and variation. Rationally, we know that training breaks down and recovery rebuilds, that long workouts must be followed by short workouts, hard workouts by easy, and that rest days are supercompensation days. But when the duty calls from oneself, colleagues, and funding agencies, it feels good to do a couple of extra hours despite muddy thoughts. "Everybody else does it." With duty before all, the collective march continues with heavy steps – at worst in circles.<br><br>The real challenge is to have the courage to break habits and inspire change. The hard thing comes first – to change oneself. It is hardly possible without actionable goals toward the answers to what we truly want to achieve. After that, everything is about never looking away from the goal and about inspiring others to joyful work toward new heights. There are many techniques to get there. Speaking for myself, I try to run with relaxed form and look naturally ahead to avoid cramping and maintain focus.<br>Moreover, there is nothing that beats power naps to keep the stress away and the thoughts clear. And if you ask how I am doing, then I hope I will use <a href="http://www.umu.se/sok/personalkatalog?languageId=3&amp;uid=fral0001">Fredrik Almqvist</a>'s reply: "Pretty darn well!" It is also contagious.</p>
-<p><em>Originally published in Swedish as Plikten framför allt? for <a href="https://www.tidningencurie.se/gastbloggar/martinrosvall/plikten-framfor-allt/" target="_blank" rel="noopener noreferrer">Curie</a>, issued by the Swedish Research Council.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Human activity is altering the world’s zoogeographical regions</title>
         <author>
             <name>Martin Rosvall</name>
@@ -126,10 +67,9 @@
         <link href="https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions.html"/>
         <id>https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions.html</id>
         <media:content url="https://www.martinrosvall.com/media/posts/12/BiogeographicalRobusness.jpg" medium="image" />
-            <category term="Publications"/>
 
         <updated>2019-06-12T00:00:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/12/BiogeographicalRobusness.jpg" alt="" />
                     Rubén Bernardo-Madrid, Joaquín Calatayud, Manuela González-Suarez, Martin Rosvall, Pablo M. Lucas, Marta Rueda, Alexandre Antonelli, and Eloy Revilla Zoogeographical&hellip;
@@ -152,11 +92,10 @@
         <link href="https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html"/>
         <id>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models.html</id>
         <media:content url="https://www.martinrosvall.com/media/posts/1/HigherOrderNetworkModels-04.svg" medium="image" />
-            <category term="Publications"/>
             <category term="Higher-order network models"/>
 
         <updated>2019-03-25T12:00:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.martinrosvall.com/media/posts/1/HigherOrderNetworkModels-04.svg" alt="Higher-order Markov flows" />
                     Renaud Lambiotte, Martin Rosvall, and Ingo Scholtes Rich data are revealing that complex dependencies between the nodes of a&hellip;
@@ -173,110 +112,55 @@
         </content>
     </entry>
     <entry>
-        <title>Helping businesses love their data</title>
+        <title>Mapping change in large networks</title>
         <author>
             <name>Martin Rosvall</name>
         </author>
-        <link href="https://www.martinrosvall.com/infobaleen.html"/>
-        <id>https://www.martinrosvall.com/infobaleen.html</id>
-        <media:content url="https://www.martinrosvall.com/media/posts/17/InfobaleenNKlogo_Purple.svg" medium="image" />
-            <category term="Interests"/>
+        <link href="https://www.martinrosvall.com/mapping-change-in-large-networks.html"/>
+        <id>https://www.martinrosvall.com/mapping-change-in-large-networks.html</id>
+        <media:content url="https://www.martinrosvall.com/media/posts/15/neuroAlluvial2001-2007.svg" medium="image" />
 
-        <updated>2019-01-01T06:41:00+01:00</updated>
-            <summary>
+        <updated>2010-01-27T00:00:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://www.martinrosvall.com/media/posts/17/InfobaleenNKlogo_Purple.svg" alt="Infobaleen" />
-                    I am co-founder of Infobaleen together with Daniel Edler, Andrea Lancichinetti, Niklas Lovén, Christian Persson, and Jakob Sjölander. Infobaleen&hellip;
+                        <img src="https://www.martinrosvall.com/media/posts/15/neuroAlluvial2001-2007.svg" alt="" />
+                    Martin Rosvall and Carl T. Bergstrom Change is a fundamental ingredient of interaction patterns in biology, technology, the economy, and science&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.martinrosvall.com/media/posts/17/InfobaleenNKlogo_Purple.svg" class="type:primaryImage" alt="Infobaleen" /></p>
-                I am co-founder of <a href="http://infobaleen.com/">Infobaleen</a> together with <a href="https://www.umu.se/en/staff/daniel-edler/">Daniel Edler</a>, <a href="https://sites.google.com/site/andrealancichinetti/">Andrea Lancichinetti</a>, <a href="https://www.linkedin.com/in/niklasloven">Niklas Lovén</a>, <a href="https://se.linkedin.com/in/christian-persson-025ba153">Christian Persson</a>, and <a href="https://www.linkedin.com/in/jakob-sj%C3%B6lander-7821642">Jakob Sjölander</a>. Infobaleen is a university spin-off that combines efficient machine learning and data management in a scalable platform. We make our customers' data work for them.
+                    <p><img src="https://www.martinrosvall.com/media/posts/15/neuroAlluvial2001-2007.svg" class="type:primaryImage" alt="" /></p>
+                <p><strong>Martin Rosvall</strong> and <strong>Carl T. Bergstrom</strong></p>
+<p>Change is a fundamental ingredient of interaction patterns in biology, technology, the economy, and science itself: Interactions within and between organisms change; transportation patterns by air, land, and sea all change; the global financial flow changes; and the frontiers of scientific research change. Networks and clustering methods have become important tools to comprehend instances of these large-scale structures, but without methods to distinguish between real trends and noisy data, these approaches are not useful for studying how networks change. Only if we can assign significance to the partitioning of single networks can we distinguish meaningful structural changes from random fluctuations. Here we show that bootstrap resampling accompanied by significance clustering provides a solution to this problem. To connect changing structures with the changing function of networks, we highlight and summarize the significant structural changes with alluvial diagrams and realize de Solla Price's vision of mapping change in science: studying the citation pattern between about 7000 scientific journals over the past decade, we find that neuroscience has transformed from an interdisciplinary specialty to a mature and stand-alone discipline.</p>
+<p><a href="https://doi.org/10.1371/journal.pone.0008694">PLoS One 5(1): e8694 (2010)</a><br><a href="https://arxiv.org/abs/0812.1242">arXiv:0812.1242</a></p>
+<p>Code for the community-detection algorithm <a href="https://www.mapequation.org/code.html" target="_blank" rel="noopener noreferrer">Infomap</a>, <a href="https://www.mapequation.org/infomap/" target="_blank" rel="noopener noreferrer">Infomap online</a>, and <a href="https://www.mapequation.org/apps.html" target="_blank" rel="noopener noreferrer">interactive applications</a> for <a href="https://www.mapequation.org/apps/MapGenerator.html" target="_blank" rel="noopener noreferrer">generating network maps</a>, <a href="https://www.mapequation.org/navigator/" target="_blank" rel="noopener noreferrer">exploring networks</a>, <a href="https://www.mapequation.org/alluvial/" target="_blank" rel="noopener noreferrer">visualizing changes in networks</a> and explaining the machinery of  the map equation for <a href="https://www.mapequation.org/apps/MapDemo.html" target="_blank" rel="noopener noreferrer">standard</a>, <a href="https://www.mapequation.org/apps/multilayer-network/index.html" target="_blank" rel="noopener noreferrer">multilevel</a>, and <a href="https://www.mapequation.org/apps/sparse-memory-network/index.html" target="_blank" rel="noopener noreferrer">higher-order</a> networks are available on <a href="https://www.mapequation.org" target="_blank" rel="noopener noreferrer">mapequation.org</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>My journey in life and science</title>
+        <title>Maps of random walks on complex networks reveal community structure</title>
         <author>
             <name>Martin Rosvall</name>
         </author>
-        <link href="https://www.martinrosvall.com/bio.html"/>
-        <id>https://www.martinrosvall.com/bio.html</id>
-        <media:content url="https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg" medium="image" />
-            <category term="Interests"/>
+        <link href="https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html"/>
+        <id>https://www.martinrosvall.com/understanding-complex-systems-from-networks-to-optimal-higher-order-models-2.html</id>
+        <media:content url="https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg" medium="image" />
 
-        <updated>2019-01-01T00:00:00+01:00</updated>
-            <summary>
+        <updated>2007-12-10T00:00:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg" alt="Skiing with kids" />
-                    My life is an improv dance with family, cross-country skiing, outdoor fun, and research. I was born in Uppsala&hellip;
+                        <img src="https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg" alt="Map of science" />
+                    Martin Rosvall and Carl T. Bergstrom To comprehend the multipartite organization of large-scale biological and social systems, we introduce&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.martinrosvall.com/media/posts/11/MartinRosvallBlogg.jpg" class="type:primaryImage" alt="Skiing with kids" /></p>
-                <p><em>My life is an improv dance with family, cross-country skiing, outdoor fun, and research. </em></p>
-<p>I was born in Uppsala and grew up in a small village north of Umeå. At 16, I went to a high school for cross-country skiing in Lycksele before my undergraduate in engineering physics. After my Ph.D. in network science at the Niels Bohr Institute in Copenhagen, I moved to the Department of Biology at the University of Washington in Seattle for my postdoc. There I started working on a grand challenge in network science: how to simplify and highlight essential regularities in networks into maps. Mapping networks is a holy grail of data science because in the myriad links and nodes of a network hide answers to how we can predict how the system will evolve.</p>
-<p>From 2009 at Umeå University, and since 2019 as a professor in physics with focus on computational science, I have continued to develop and integrate new math, algorithms, and visualizations into mapping tools for efficiently going from interaction data to insightful maps, new hypotheses, and unexpected discoveries. With a diverse research group in <a href="https://icelab.se" target="_blank" rel="noopener noreferrer">IceLab</a> and a growing collaboration network, our applications extend across both the natural and social sciences.</p>
-<p>As a professional power napper, my favorite place in IceLab after lunch is a hidden couch.</p>
-<p>I am fortunate to live between the university and the ski trails with my wife Marie and our two daughters born in 2014 and 2018. When I am not in a playground with my daughters, you will find me increasing my dopamine levels on cross-country skis.</p>
-<p>Currently, my research is funded by the Swedish Research Council, the Swedish Foundation for Strategic Research, the Knut and Alice Wallenberg Foundation, and the Kempe Foundation.</p>
+                    <p><img src="https://www.martinrosvall.com/media/posts/4/science2004transparentbkg-01.svg" class="type:primaryImage" alt="Map of science" /></p>
+                <p><strong>Martin Rosvall</strong> and <strong>Carl T. Bergstrom</strong></p>
+<p>To comprehend the multipartite organization of large-scale biological and social systems, we introduce a new information-theoretic approach to reveal community structure in weighted and directed networks. The method decomposes a network into modules by optimally compressing a description of information flows on the network. The result is a map that both simplifies and highlights the regularities in the structure and their relationships to each other. We illustrate the method by making a map of scientific communication as captured in the citation patterns of more than 6000 journals. We discover a multicentric organization with fields that vary dramatically in size and degree of integration into the network of science. Along the backbone of the network — which includes physics, chemistry, molecular biology, and medicine — information flows bidirectionally, but the map reveals a directional pattern of citation from the applied fields to the basic sciences.</p>
+<p><a href="https://dx.doi.org/10.1073/pnas.0706851105" title="Paper" target="_blank" rel="noopener noreferrer">PNAS <strong>105</strong>, 1118 (2008)</a><br><a class="noline" href="https://arxiv.org/abs/0707.0609">arXiv:0707.0609</a></p>
+<p>Code for the community-detection algorithm <a href="https://www.mapequation.org/code.html" target="_blank" rel="noopener noreferrer">Infomap</a>, <a href="https://www.mapequation.org/infomap/" target="_blank" rel="noopener noreferrer">Infomap online</a>, and <a href="https://www.mapequation.org/apps.html" target="_blank" rel="noopener noreferrer">interactive applications</a> for <a href="https://www.mapequation.org/apps/MapGenerator.html" target="_blank" rel="noopener noreferrer">generating network maps</a>, <a href="https://www.mapequation.org/navigator/" target="_blank" rel="noopener noreferrer">exploring networks</a>, <a href="https://www.mapequation.org/alluvial/" target="_blank" rel="noopener noreferrer">visualizing changes in networks</a> and explaining the machinery of  the map equation for <a href="https://www.mapequation.org/apps/MapDemo.html" target="_blank" rel="noopener noreferrer">standard</a>, <a href="https://www.mapequation.org/apps/multilayer-network/index.html" target="_blank" rel="noopener noreferrer">multilevel</a>, and <a href="https://www.mapequation.org/apps/sparse-memory-network/index.html" target="_blank" rel="noopener noreferrer">higher-order</a> networks are available on <a href="https://www.mapequation.org" target="_blank" rel="noopener noreferrer">mapequation.org</a></p>
 <p> </p>
-<p>In May 2021, <a href="https://sunelehmann.com">Sune Lehmann</a> interviewed me in his podcast <a href="https://sunelehmann.com/2021/03/23/podcast-trailer-too-lazy-to-read-the-paper/" target="_blank" rel="noopener noreferrer">Too Lazy to Read the Paper</a> about how I became a network scientist.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GaxnC8MtUW4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Den fjärde uppgiften</title>
-        <author>
-            <name>Martin Rosvall</name>
-        </author>
-        <link href="https://www.martinrosvall.com/den-fjaerde-uppgiften.html"/>
-        <id>https://www.martinrosvall.com/den-fjaerde-uppgiften.html</id>
-        <media:content url="https://www.martinrosvall.com/media/posts/22/FilterOmslag-3.jpg" medium="image" />
-            <category term="Interests"/>
-
-        <updated>2017-08-18T16:15:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.martinrosvall.com/media/posts/22/FilterOmslag-3.jpg" alt="" />
-                    Juli 2022 Magasinet Filters chefredaktör Mattias Göransson kom upp till IceLab två dagar i maj. Vi diskuterade forskning, kritiskt&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.martinrosvall.com/media/posts/22/FilterOmslag-3.jpg" class="type:primaryImage" alt="" /></p>
-                <h5>Juli 2022</h5>
-<p><a href="https://magasinetfilter.se" target="_blank" rel="noopener noreferrer">Magasinet Filters</a> chefredaktör <a href="https://magasinetfilter.se/skribent/mattias-goransson/" target="_blank" rel="noopener noreferrer">Mattias Göransson</a> kom upp till IceLab två dagar i maj. Vi diskuterade forskning, kritiskt tänkande och konsten att syna skitsnack. Sedan skrev Mattias ihop nummer 87:s omslagsjobb med titeln <a href="https://magasinetfilter.se/reportage/kritiskt-tankande/" target="_blank" rel="noopener noreferrer">Den fjärde uppgiften</a> (kräver prenumeration) som även diskuterades i <a href="https://poddtoppen.se/podcast/1500772929/filterpodden/59-syna-skitsnacket" target="_blank" rel="noopener noreferrer">avsnitt 59 av Filterpodden</a>.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.martinrosvall.com/media/posts/22/Filter87Reportage.png" alt="Filter 87: Den fjärde uppgiften" width="1592" height="1848" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.martinrosvall.com/media/posts/22/responsive/Filter87Reportage-xs.png 300w ,https://www.martinrosvall.com/media/posts/22/responsive/Filter87Reportage-sm.png 480w ,https://www.martinrosvall.com/media/posts/22/responsive/Filter87Reportage-md.png 768w ,https://www.martinrosvall.com/media/posts/22/responsive/Filter87Reportage-xl.png 1200w ,https://www.martinrosvall.com/media/posts/22/responsive/Filter87Reportage-xxl.png 1600w ,https://www.martinrosvall.com/media/posts/22/responsive/Filter87Reportage-xxxl.png 2560w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Too lazy to read the paper</title>
-        <author>
-            <name>Martin Rosvall</name>
-        </author>
-        <link href="https://www.martinrosvall.com/too-lazy-to-read-the-paper.html"/>
-        <id>https://www.martinrosvall.com/too-lazy-to-read-the-paper.html</id>
-        <media:content url="https://www.martinrosvall.com/media/posts/24/TooLazy.jpg" medium="image" />
-            <category term="Interests"/>
-
-        <updated>2017-06-19T21:07:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.martinrosvall.com/media/posts/24/TooLazy.jpg" alt="" />
-                    May 2021 Sune Lehmann interviewed me in his podcast Too Lazy to Read the Paper about how I became&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.martinrosvall.com/media/posts/24/TooLazy.jpg" class="type:primaryImage" alt="" /></p>
-                <h4>May 2021</h4>
-<p><a href="https://sunelehmann.com">Sune Lehmann</a> interviewed me in his podcast <a href="https://sunelehmann.com/2021/03/23/podcast-trailer-too-lazy-to-read-the-paper/" target="_blank" rel="noopener noreferrer">Too Lazy to Read the Paper</a> about how I became a network scientist.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GaxnC8MtUW4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
