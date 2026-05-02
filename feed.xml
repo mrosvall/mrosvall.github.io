@@ -3,12 +3,37 @@
     <title>martinrosvall.com</title>
     <link href="https://www.martinrosvall.com/feed.xml" rel="self" />
     <link href="https://www.martinrosvall.com" />
-    <updated>2021-06-04T10:25:24+02:00</updated>
+    <updated>2026-05-02T08:13:43+02:00</updated>
     <author>
         <name>Martin Rosvall</name>
     </author>
     <id>https://www.martinrosvall.com</id>
 
+    <entry>
+        <title>Community detection with the map equation and Infomap: theory and applications</title>
+        <author>
+            <name>Martin Rosvall</name>
+        </author>
+        <link href="https://www.martinrosvall.com/community-detection-with-the-map-equation-and-infomap-theory-and-applications.html"/>
+        <id>https://www.martinrosvall.com/community-detection-with-the-map-equation-and-infomap-theory-and-applications.html</id>
+        <media:content url="https://www.martinrosvall.com/media/posts/25/fig-flow-mapping.png" medium="image" />
+
+        <updated>2026-05-02T08:09:43+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.martinrosvall.com/media/posts/25/fig-flow-mapping.png" alt="" />
+                    Jelena Smiljanić, Christopher Blöcker, Anton Holmgren, Daniel Edler, Magnus Neuman, and Martin Rosvall Real-world networks have a complex topology&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.martinrosvall.com/media/posts/25/fig-flow-mapping.png" class="type:primaryImage" alt="" /></p>
+                <p><strong>Jelena Smiljanić</strong>, <strong>Christopher Blöcker</strong>, <strong>Anton Holmgren</strong>, <strong>Daniel Edler</strong>, <strong>Magnus Neuman</strong>, and <strong>Martin Rosvall</strong></p>
+<p>Real-world networks have a complex topology comprising many elements often structured into communities. Revealing these communities helps researchers uncover the organizational and functional structure of the system that the network represents. However, detecting community structures in complex networks requires selecting a community detection method among a multitude of alternatives with different network representations, community interpretations, and underlying mechanisms. This tutorial focuses on a popular community detection method called the map equation and its search algorithm Infomap. The map equation framework for community detection describes communities by analyzing dynamic processes on the network. Thanks to its flexibility, the map equation provides extensions that can incorporate various assumptions about network structure and dynamics. To help decide if the map equation is a suitable community detection method for a given complex system and problem at hand – and which variant to choose – we review the map equation's theoretical framework and guide users in applying the map equation to various research problems.</p>
+<p><a class="noline" href="https://doi.org/10.1145/3779648">ACM Comput. Surv. 58 (7), 1–34 (2026)</a><br><a class="noline" href="https://doi.org/10.48550/arXiv.2311.04036">arXiv:2311.04036</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Regularities in species niches reveal the world’s climatic regions</title>
         <author>

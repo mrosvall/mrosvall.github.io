@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.martinrosvall.com/community-detection-with-the-map-equation-and-infomap-theory-and-applications.html",
+            "url": "https://www.martinrosvall.com/community-detection-with-the-map-equation-and-infomap-theory-and-applications.html",
+            "title": "Community detection with the map equation and Infomap: theory and applications",
+            "summary": "Jelena Smiljanić, Christopher Blöcker, Anton Holmgren, Daniel Edler, Magnus Neuman, and Martin Rosvall Real-world networks have a complex topology&hellip;",
+            "content_html": "<p><strong>Jelena Smiljanić</strong>, <strong>Christopher Blöcker</strong>, <strong>Anton Holmgren</strong>, <strong>Daniel Edler</strong>, <strong>Magnus Neuman</strong>, and <strong>Martin Rosvall</strong></p>\n<p>Real-world networks have a complex topology comprising many elements often structured into communities. Revealing these communities helps researchers uncover the organizational and functional structure of the system that the network represents. However, detecting community structures in complex networks requires selecting a community detection method among a multitude of alternatives with different network representations, community interpretations, and underlying mechanisms. This tutorial focuses on a popular community detection method called the map equation and its search algorithm Infomap. The map equation framework for community detection describes communities by analyzing dynamic processes on the network. Thanks to its flexibility, the map equation provides extensions that can incorporate various assumptions about network structure and dynamics. To help decide if the map equation is a suitable community detection method for a given complex system and problem at hand – and which variant to choose – we review the map equation's theoretical framework and guide users in applying the map equation to various research problems.</p>\n<p><a class=\"noline\" href=\"https://doi.org/10.1145/3779648\">ACM Comput. Surv. 58 (7), 1–34 (2026)</a><br><a class=\"noline\" href=\"https://doi.org/10.48550/arXiv.2311.04036\">arXiv:2311.04036</a></p>",
+            "image": "https://www.martinrosvall.com/media/posts/25/fig-flow-mapping.png",
+            "author": {
+                "name": "Martin Rosvall"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-02T08:09:43+02:00",
+            "date_modified": "2026-05-02T08:13:43+02:00"
+        },
+        {
             "id": "https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-3.html",
             "url": "https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-3.html",
             "title": "Regularities in species niches reveal the world’s climatic regions",
@@ -23,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2021-06-04T09:48:25+02:00",
-            "date_modified": "2021-06-04T10:25:24+02:00"
+            "date_modified": "2026-05-02T08:10:57+02:00"
         },
         {
             "id": "https://www.martinrosvall.com/human-activity-is-altering-the-worlds-zoogeographical-regions-2.html",
